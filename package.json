@@ -16,5 +16,6 @@
     "concurrently": "^8.2.0"
   },
   "dependencies": {
+    "express-graphql": "^0.12.0"
   }
 }
